@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "practicasdsm52",
+    "slug": "practicasdsm52",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "practicasdsm52"
+}
